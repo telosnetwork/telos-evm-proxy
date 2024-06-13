@@ -1,5 +1,8 @@
 # Telos EVM Proxy
 
+## Description
+This proxy is intended to set the signature values for transactions to zero, if the signature is invalid (i.e. from a bridge transaction or a transaction signed and sent from the Telos native network)
+
 ## Dependencies
 
 * Golang
