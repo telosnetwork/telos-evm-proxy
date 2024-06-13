@@ -15,5 +15,5 @@ go build cmd/main.go
 go run cmd/main.go <URL> <PORT>
 
 //example:
-go run cmd/main.go https://rpc3.telos.net/ 8545
+./main.go https://rpc3.telos.net/ 8545
 ```
